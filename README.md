@@ -1,33 +1,77 @@
 # Marcos Macedo
 
-Desenvolvedor Fullstack focado em transformar processos operacionais em sistemas web e mobile claros, escaláveis e prontos para produção.
+<p align="center">
+  <a href="https://marcos-macedo-dev.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Online-111827?style=for-the-badge&logo=vercel"></a>
+  <a href="https://www.linkedin.com/in/antonio-marcos-9305bb2b4"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://wa.me/558881546106"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</p>
 
-Construo soluções ponta a ponta, do diagnóstico do problema ao deploy.
+Desenvolvedor Fullstack focado em transformar processos operacionais em sistemas web e mobile claros, escalaveis e prontos para producao.
 
-## Resumo profissional
+## Navegacao Rapida
 
-- Atuação em projetos reais com foco em operação, produtividade e confiabilidade.
-- Experiência prática em frontend, backend, banco de dados e integração entre serviços.
-- Forte orientação para entregas objetivas, código limpo e evolução contínua do produto.
+- [Resumo](#resumo)
+- [Stack](#stack)
+- [Projetos em Destaque](#projetos-em-destaque)
+- [Certificacoes](#certificacoes)
+- [Contato](#contato)
 
-## Stack principal
+## Resumo
 
-- Frontend: Vue.js, Next.js, React, Tailwind CSS
-- Backend: Node.js, Express
-- Banco de dados e cache: PostgreSQL, MySQL, Redis
-- Mobile: React Native (Expo)
-- Ferramentas: Git, GitHub, Vite, Sequelize
+- Projetos reais com foco em operacao, produtividade e confiabilidade.
+- Entrega ponta a ponta: descoberta do problema, implementacao e deploy.
+- Codigo limpo, evolucao continua e foco em resultado pratico.
 
-## Projetos em destaque
+<details>
+<summary><strong>Como eu trabalho</strong></summary>
 
-1. [bymarquin](https://github.com/bymarquin/bymarquin)  
-   Portfólio profissional com foco em posicionamento, conversão e apresentação de cases.
-2. [qbombom](https://github.com/bymarquin/qbombom)  
-   Sistema para operação de delivery e PDV, com centralização de fluxo e redução de retrabalho.
-3. [sisae](https://github.com/bymarquin/sisae)  
-   Plataforma de gestão escolar para organizar rotinas administrativas e ampliar visibilidade operacional.
+1. Diagnostico do fluxo atual e gargalos.
+2. Definicao de escopo objetivo com prioridade de impacto.
+3. Implementacao fullstack com validacao continua.
+4. Publicacao e acompanhamento de estabilidade.
 
-## Certificações
+</details>
+
+## Stack
+
+| Camada | Tecnologias |
+|---|---|
+| Frontend | Vue.js, Next.js, React, Tailwind CSS |
+| Backend | Node.js, Express |
+| Banco e cache | PostgreSQL, MySQL, Redis |
+| Mobile | React Native (Expo) |
+| Ferramentas | Git, GitHub, Vite, Sequelize |
+
+## Projetos em Destaque
+
+<details open>
+<summary><strong>1) bymarquin</strong></summary>
+
+- Repositorio: [github.com/bymarquin/bymarquin](https://github.com/bymarquin/bymarquin)
+- Foco: portfolio profissional com posicionamento, conversao e apresentacao de cases.
+- Stack: Next.js, React, Tailwind CSS, Express.
+
+</details>
+
+<details>
+<summary><strong>2) qbombom</strong></summary>
+
+- Repositorio: [github.com/bymarquin/qbombom](https://github.com/bymarquin/qbombom)
+- Foco: sistema para delivery e PDV com centralizacao operacional.
+- Stack: Vue, Express, PostgreSQL, Redis.
+
+</details>
+
+<details>
+<summary><strong>3) sisae</strong></summary>
+
+- Repositorio: [github.com/bymarquin/sisae](https://github.com/bymarquin/sisae)
+- Foco: gestao escolar para organizar rotinas administrativas.
+- Stack: Vue, Express, PostgreSQL, Sequelize.
+
+</details>
+
+## Certificacoes
 
 - Huawei HCIA-5G V2.0
 - Google Data Analytics (PT)
@@ -36,6 +80,9 @@ Construo soluções ponta a ponta, do diagnóstico do problema ao deploy.
 
 - E-mail: [marcosmacedo784@gmail.com](mailto:marcosmacedo784@gmail.com)
 - LinkedIn: [linkedin.com/in/antonio-marcos-9305bb2b4](https://www.linkedin.com/in/antonio-marcos-9305bb2b4)
-- Portfólio: [marcos-macedo-dev.vercel.app](https://marcos-macedo-dev.vercel.app/)
+- Portfolio: [marcos-macedo-dev.vercel.app](https://marcos-macedo-dev.vercel.app/)
+- WhatsApp: [wa.me/558881546106](https://wa.me/558881546106)
+
+---
 
 Aberto a oportunidades para desenvolvimento fullstack e projetos sob demanda.
