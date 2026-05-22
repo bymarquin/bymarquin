@@ -1,29 +1,33 @@
 # Marcos Macedo
 
-Desenvolvedor em formação, com foco em criar produtos web e mobile que sejam simples de usar, fáceis de manter e eficientes em produção.
+Desenvolvedor Fullstack focado em transformar processos operacionais em sistemas web e mobile claros, escaláveis e prontos para produção.
 
-Atualmente, concentro meus estudos e projetos em frontend moderno, integração com APIs e boas práticas de estrutura de código.
+Construo soluções ponta a ponta, do diagnóstico do problema ao deploy.
 
-## Sobre
+## Resumo profissional
 
-- Experiência com desenvolvimento web usando Vue.js e Tailwind CSS.
-- Vivência com mobile usando React Native.
-- Base técnica em suporte e infraestrutura, com atuação prática em manutenção e ambiente institucional.
-- Perfil orientado a melhoria contínua, consistência de entrega e evolução técnica.
+- Atuação em projetos reais com foco em operação, produtividade e confiabilidade.
+- Experiência prática em frontend, backend, banco de dados e integração entre serviços.
+- Forte orientação para entregas objetivas, código limpo e evolução contínua do produto.
 
-## Stack
+## Stack principal
 
-- Linguagens: JavaScript, HTML, CSS
-- Frontend: Vue.js, Tailwind CSS
-- Mobile: React Native
-- Ferramentas: Git, GitHub, VS Code
+- Frontend: Vue.js, Next.js, React, Tailwind CSS
+- Backend: Node.js, Express
+- Banco de dados e cache: PostgreSQL, MySQL, Redis
+- Mobile: React Native (Expo)
+- Ferramentas: Git, GitHub, Vite, Sequelize
 
-## Projeto em destaque
+## Projetos em destaque
 
-- [Portfolio Pessoal](https://marcos-macedo-dev.vercel.app/)  
-  Projeto construído para apresentar minha trajetória, habilidades e trabalhos publicados.
+1. [bymarquin](https://github.com/bymarquin/bymarquin)  
+   Portfólio profissional com foco em posicionamento, conversão e apresentação de cases.
+2. [qbombom](https://github.com/bymarquin/qbombom)  
+   Sistema para operação de delivery e PDV, com centralização de fluxo e redução de retrabalho.
+3. [sisae](https://github.com/bymarquin/sisae)  
+   Plataforma de gestão escolar para organizar rotinas administrativas e ampliar visibilidade operacional.
 
-## Formação complementar
+## Certificações
 
 - Huawei HCIA-5G V2.0
 - Google Data Analytics (PT)
@@ -32,8 +36,6 @@ Atualmente, concentro meus estudos e projetos em frontend moderno, integração 
 
 - E-mail: [marcosmacedo784@gmail.com](mailto:marcosmacedo784@gmail.com)
 - LinkedIn: [linkedin.com/in/antonio-marcos-9305bb2b4](https://www.linkedin.com/in/antonio-marcos-9305bb2b4)
-- GitHub: [github.com/marcos-macedo-dev](https://github.com/marcos-macedo-dev)
+- Portfólio: [marcos-macedo-dev.vercel.app](https://marcos-macedo-dev.vercel.app/)
 
----
-
-Se quiser trocar uma ideia sobre projetos, colaboração ou oportunidades, estou à disposição.
+Aberto a oportunidades para desenvolvimento fullstack e projetos sob demanda.

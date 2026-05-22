@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# bymarquin
 
-## Getting Started
+Portfolio de Marcos Macedo — desenvolvedor fullstack que constrói sistemas web do zero ao deploy, sozinho.
 
-First, run the development server:
+Sem agência no meio. Sem briefing repassado. Você fala direto com quem vai escrever o código.
+
+## Projetos em destaque
+
+### bymarquin
+O próprio portfolio. O anterior não comunicava valor nem gerava contato qualificado — então foi refeito do zero com foco em conversão: copy orientado a resultado, layout sem ruído e interações que não atrapalham.
+
+### qbombom
+Sistema de delivery e PDV para operação com alto volume. O fluxo fragmentado gerava erro, retrabalho e perda de pedido. O sistema centralizou tudo em uma interface única, com sincronização em tempo real entre frente de caixa e cozinha.
+
+### sisae
+Plataforma de gestão escolar. Rotinas administrativas espalhadas em planilhas e papéis, sem visibilidade para decisão. O sisae centralizou matrículas, frequência e relatórios — dando à gestão controle real sobre a operação da escola.
+
+## Stack
+
+- **Next.js 16** com App Router e TypeScript
+- **Tailwind CSS v4**
+- **Framer Motion** — animações de entrada e interações hover
+- **Lucide React** — ícones
+- **Vue / Express / PostgreSQL / Redis** — projetos qbombom e sisae
+
+## Rodando localmente
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abre em [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Estrutura
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+app/
+  layout.tsx          # Fontes, metadata e layout raiz
+  page.tsx            # Composição das seções
+  globals.css         # Scroll suave, variáveis globais
 
-## Learn More
+components/
+  Navbar.tsx          # Sticky com active section e menu mobile animado
+  Hero.tsx            # Headline, CTAs e card de método de trabalho
+  Services.tsx        # Serviço com checklist de entrada em stagger
+  Projects.tsx        # Cards com hover 3D e stack de tecnologias
+  About.tsx           # Apresentação direta e diferenciais
+  Contact.tsx         # WhatsApp destacado, e-mail com copy e Instagram
+  Footer.tsx
+  Reveal.tsx          # Animação de entrada reutilizável
+  CursorSpotlight.tsx # Spotlight que segue o cursor em desktop
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Contato
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Marcos Macedo**
+WhatsApp: [+55 88 8154 6106](https://wa.me/558881546106)
+E-mail: marcosmacedo784@gmail.com
+Instagram: [@m4rcos_macedo](https://instagram.com/m4rcos_macedo)
