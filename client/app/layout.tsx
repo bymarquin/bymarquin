@@ -1,22 +1,28 @@
 import type { Metadata } from "next";
-import { BackgroundMotion } from "@/components/portfolio/background-motion";
-import { JetBrains_Mono, Space_Grotesk } from "next/font/google";
+import { Bricolage_Grotesque, Space_Grotesk } from "next/font/google";
 import "./globals.css";
 
-const spaceGrotesk = Space_Grotesk({
-  variable: "--font-space-grotesk",
+const displayFont = Bricolage_Grotesque({
+  variable: "--font-display",
   subsets: ["latin"],
 });
 
-const jetBrainsMono = JetBrains_Mono({
-  variable: "--font-jetbrains-mono",
+const bodyFont = Space_Grotesk({
+  variable: "--font-body",
   subsets: ["latin"],
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio | Developer",
+  title: "Marcos Macedo — Desenvolvedor Fullstack | Sistemas Web",
   description:
-    "Portfolio de desenvolvedor com foco em experiencias modernas, performance e animacoes fluidas.",
+    "Sistemas web sob medida, do zero ao deploy. Trabalho ponta a ponta, sozinho — você fala direto comigo.",
+  openGraph: {
+    title: "Marcos Macedo — Desenvolvedor Fullstack | Sistemas Web",
+    description:
+      "Sistemas web sob medida, do zero ao deploy. Trabalho ponta a ponta, sozinho — você fala direto comigo.",
+    type: "website",
+    locale: "pt_BR",
+  },
 };
 
 export default function RootLayout({
@@ -25,13 +31,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="pt-BR">
-      <body
-        className={`${spaceGrotesk.variable} ${jetBrainsMono.variable} antialiased`}
-      >
-        <BackgroundMotion />
-        <div className="app-content">{children}</div>
-      </body>
+    <html lang="pt-BR" className={`${displayFont.variable} ${bodyFont.variable}`}>
+      <body>{children}</body>
     </html>
   );
 }

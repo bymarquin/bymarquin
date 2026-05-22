@@ -1,33 +1,26 @@
-import { About } from "@/components/portfolio/about";
-import { Contact } from "@/components/portfolio/contact";
-import { Footer } from "@/components/portfolio/footer";
-import { Hero } from "@/components/portfolio/hero";
-import { Navbar } from "@/components/portfolio/navbar";
-import { Projects } from "@/components/portfolio/projects";
-import { Stack } from "@/components/portfolio/stack";
-import { Timeline } from "@/components/portfolio/timeline";
-import { portfolioData } from "@/data/portfolio";
+import About from "@/components/About";
+import Contact from "@/components/Contact";
+import CursorSpotlight from "@/components/CursorSpotlight";
+import Footer from "@/components/Footer";
+import Hero from "@/components/Hero";
+import Navbar from "@/components/Navbar";
+import Projects from "@/components/Projects";
+import Services from "@/components/Services";
 
 export default function Home() {
   return (
-    <>
+    <div className="relative min-h-screen overflow-hidden bg-zinc-950 text-white">
+      <div className="pointer-events-none fixed inset-0 -z-10 opacity-40 [background:radial-gradient(circle_at_15%_15%,rgba(255,255,255,0.07),transparent_30%),radial-gradient(circle_at_85%_5%,rgba(255,255,255,0.05),transparent_28%),linear-gradient(to_bottom,rgba(255,255,255,0.04),transparent_20%)]" />
+      <CursorSpotlight />
       <Navbar />
       <main>
-        <Hero
-          name={portfolioData.name}
-          role={portfolioData.role}
-          location={portfolioData.location}
-          headline={portfolioData.headline}
-          github={portfolioData.social.github}
-          linkedin={portfolioData.social.linkedin}
-        />
-        <About copy={portfolioData.about} />
-        <Stack items={portfolioData.stacks} />
-        <Projects projects={portfolioData.projects} />
-        <Timeline items={portfolioData.timeline} />
-        <Contact email={portfolioData.email} />
+        <Hero />
+        <Services />
+        <Projects />
+        <About />
+        <Contact />
       </main>
       <Footer />
-    </>
+    </div>
   );
 }
