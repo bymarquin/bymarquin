@@ -55,19 +55,19 @@ export default function Hero() {
             whileHover={{ y: -3 }}
             className="rounded-xl border border-zinc-800 bg-zinc-900/80 p-6"
           >
-            <p className="text-xs uppercase tracking-[0.18em] text-zinc-500">Resultados entregues</p>
+            <p className="text-xs uppercase tracking-[0.18em] text-zinc-500">Como eu trabalho</p>
             <ul className="mt-4 space-y-4">
               <li className="border-b border-zinc-800 pb-4">
-                <p className="font-display text-3xl font-semibold text-zinc-100">45%</p>
-                <p className="mt-1 text-xs text-zinc-400">menos erros operacionais em produção</p>
+                <p className="font-display text-2xl font-semibold text-zinc-100">Diagnóstico objetivo</p>
+                <p className="mt-1 text-xs text-zinc-400">Mapeio gargalos do seu fluxo antes de escrever código.</p>
               </li>
               <li className="border-b border-zinc-800 pb-4">
-                <p className="font-display text-3xl font-semibold text-zinc-100">32%</p>
-                <p className="mt-1 text-xs text-zinc-400">menos tempo médio de atendimento</p>
+                <p className="font-display text-2xl font-semibold text-zinc-100">Entrega ponta a ponta</p>
+                <p className="mt-1 text-xs text-zinc-400">Frontend, backend e deploy em um único responsável.</p>
               </li>
               <li>
-                <p className="font-display text-3xl font-semibold text-zinc-100">0</p>
-                <p className="mt-1 text-xs text-zinc-400">sistemas entregues fora do prazo</p>
+                <p className="font-display text-2xl font-semibold text-zinc-100">Evolução contínua</p>
+                <p className="mt-1 text-xs text-zinc-400">Sistema pronto para crescer sem recomeçar do zero.</p>
               </li>
             </ul>
           </motion.aside>
