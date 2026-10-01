@@ -1,17 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7ccf80,100:1f6f3a&height=220&section=header&text=Marcos&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=@bymarquin%20%C2%B7%20Full%20Stack%20Dev&descSize=20&descAlignY=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7ccf80,100:1f6f3a&height=200&section=header&text=Marcos&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=@bymarquin%20%C2%B7%20Full%20Stack%20Dev&descSize=20&descAlignY=60" />
 
 <a href="https://github.com/bymarquin">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7CCF80&center=true&vCenter=true&repeat=true&width=640&height=40&lines=%24+whoami+%E2%86%92+Marcos+%7C+bymarquin;Dev+Full+Stack;Estudante+de+ADS;Direto+de+Araripe%2C+CE;SaaS+%C2%B7+APIs+%C2%B7+Automa%C3%A7%C3%B5es+%C2%B7+IoT;%24+git+commit+-m+%22bora+construir%22" alt="Typing SVG" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=bymarquin&label=Visitas&color=7ccf80&style=for-the-badge&labelColor=0d1117" alt="visitas" />
-<img src="https://img.shields.io/github/followers/bymarquin?label=Seguidores&style=for-the-badge&color=7ccf80&labelColor=0d1117" alt="seguidores" />
-<img src="https://img.shields.io/badge/Araripe-CE-7ccf80?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="local" />
-<a href="https://www.linkedin.com/in/antonio-marcos-9305bb2b4/"><img src="https://img.shields.io/badge/LinkedIn-Antonio_Marcos-7ccf80?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="linkedin" /></a>
-<img src="https://img.shields.io/badge/Dispon%C3%ADvel_para-freelas-7ccf80?style=for-the-badge&labelColor=0d1117" alt="freela" />
+<img src="https://komarev.com/ghpvc/?username=bymarquin&label=Visitas&color=7ccf80&style=for-the-badge&labelColor=555555" alt="visitas" />
+<img src="https://img.shields.io/github/followers/bymarquin?label=Seguidores&style=for-the-badge&color=7ccf80&labelColor=555555" alt="seguidores" />
+<img src="https://img.shields.io/badge/Araripe-CE-7ccf80?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=555555" alt="local" />
+<a href="https://www.linkedin.com/in/antonio-marcos-9305bb2b4/"><img src="https://img.shields.io/badge/LinkedIn-Antonio_Marcos-7ccf80?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" alt="linkedin" /></a>
+<img src="https://img.shields.io/badge/Dispon%C3%ADvel_para-freelas-7ccf80?style=for-the-badge&labelColor=555555" alt="freela" />
 
 </div>
 
@@ -62,9 +62,9 @@ const marcos = {
 
 **Gera, lê e valida Pix copia-e-cola e QR Code.** TypeScript, zero dependências, publicado no npm.
 
-<a href="https://www.npmjs.com/package/@m4rquin/pix-brcode"><img src="https://img.shields.io/npm/v/@m4rquin/pix-brcode?label=npm&color=7ccf80&labelColor=0d1117&style=for-the-badge" alt="npm" /></a>
-<a href="https://github.com/bymarquin/pix-brcode"><img src="https://img.shields.io/github/stars/bymarquin/pix-brcode?style=for-the-badge&color=7ccf80&labelColor=0d1117" alt="stars" /></a>
-<a href="https://github.com/bymarquin/pix-brcode/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/bymarquin/pix-brcode/ci.yml?branch=main&label=CI&style=for-the-badge&color=7ccf80&labelColor=0d1117" alt="CI" /></a>
+<a href="https://www.npmjs.com/package/@m4rquin/pix-brcode"><img src="https://img.shields.io/npm/v/@m4rquin/pix-brcode?label=npm&color=7ccf80&labelColor=555555&style=for-the-badge" alt="npm" /></a>
+<a href="https://github.com/bymarquin/pix-brcode"><img src="https://img.shields.io/github/stars/bymarquin/pix-brcode?style=for-the-badge&color=7ccf80&labelColor=555555" alt="stars" /></a>
+<a href="https://github.com/bymarquin/pix-brcode/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/bymarquin/pix-brcode/ci.yml?branch=main&label=CI&style=for-the-badge&color=7ccf80&labelColor=555555" alt="CI" /></a>
 
 `npm i @m4rquin/pix-brcode`
 
