@@ -1,11 +1,9 @@
-name: Snake
+name: Profile animations
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write
@@ -20,6 +18,14 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 100
+
+      - run: cp profile-3d-contrib/profile-night-green.svg dist/profile-3d-night-green.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

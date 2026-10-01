@@ -1,28 +1,43 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7ccf80,100:1f6f3a&height=200&section=header&text=Marcos&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=@bymarquin&descSize=20&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7ccf80,100:1f6f3a&height=220&section=header&text=Marcos&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=@bymarquin%20%C2%B7%20Full%20Stack%20Dev&descSize=20&descAlignY=62" />
 
 <a href="https://github.com/bymarquin">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7CCF80&center=true&vCenter=true&width=600&lines=Dev+Full+Stack+%F0%9F%9A%80;Estudante+de+ADS+%F0%9F%8E%93;De+Araripe%2C+CE+%F0%9F%93%8D;Construindo+SaaS%2C+APIs+e+automa%C3%A7%C3%B5es" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7CCF80&center=true&vCenter=true&repeat=true&width=640&height=40&lines=%24+whoami+%E2%86%92+Marcos+%7C+bymarquin;Dev+Full+Stack+%F0%9F%9A%80;Estudante+de+ADS+%F0%9F%8E%93;Direto+de+Araripe%2C+CE+%F0%9F%93%8D;SaaS+%C2%B7+APIs+%C2%B7+Automa%C3%A7%C3%B5es+%C2%B7+IoT;%24+git+commit+-m+%22bora+construir%22" alt="Typing SVG" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=bymarquin&label=Visitas&color=7ccf80&style=for-the-badge" alt="visitas" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=bymarquin&label=Visitas&color=7ccf80&style=for-the-badge&labelColor=0d1117" alt="visitas" />
+<img src="https://img.shields.io/github/followers/bymarquin?label=Seguidores&style=for-the-badge&color=7ccf80&labelColor=0d1117" alt="seguidores" />
+<img src="https://img.shields.io/badge/Araripe-CE-7ccf80?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="local" />
+<img src="https://img.shields.io/badge/Dispon%C3%ADvel_para-freelas-7ccf80?style=for-the-badge&labelColor=0d1117" alt="freela" />
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 ## 👨‍💻 Sobre mim
 
-- 📍 Araripe, CE
-- 🎓 Cursando ADS / Sistemas de Informação
-- 🔧 Back-end com Node.js (Express/Fastify), front com Vue e JS, um pouco de C e Python
-- 🏗️ Foco em sistemas de gestão, integrações com APIs e IoT
+```js
+const marcos = {
+  user: "bymarquin",
+  local: "Araripe, CE 🇧🇷",
+  curso: "ADS / Sistemas de Informação",
+  stack: ["Node.js", "Vue", "JavaScript", "Python", "C"],
+  foco: ["SaaS", "APIs & integrações", "Automação", "IoT"],
+  mantra: "código simples, entrega rápida",
+};
+```
 
 ## 🛠️ Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,vue,nodejs,express,fastify,python,c,html,css,docker,linux,git,vscode,figma&perline=7" alt="stack" />
+<img src="https://skillicons.dev/icons?i=js,vue,nodejs,express,fastify,python,c,html,css,docker,linux,nginx,git,github,vscode,figma&perline=8" alt="stack" />
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📊 Estatísticas
 
@@ -32,6 +47,27 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bymarquin&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=7ccf80" alt="langs" />
 
 <img src="https://streak-stats.demolab.com?user=bymarquin&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7ccf80&fire=7ccf80&currStreakLabel=7ccf80" alt="streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=bymarquin&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
+
+</div>
+
+## 🚀 Projetos em destaque
+
+<div align="center">
+
+<a href="https://github.com/bymarquin/print-bridge"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=print-bridge&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
+<a href="https://github.com/bymarquin/auxilio-a-pessoas-autistas-no-transporte-publico"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=auxilio-a-pessoas-autistas-no-transporte-publico&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
+<a href="https://github.com/bymarquin/afiliado-ml"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=afiliado-ml&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
+<a href="https://github.com/bymarquin/ds2api"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=ds2api&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
+
+</div>
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bymarquin&theme=github-compact&bg_color=0d1117&color=7ccf80&line=7ccf80&point=ffffff&area=true&area_color=7ccf80&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="activity" />
 
 </div>
 
@@ -45,6 +81,10 @@
   <img alt="snake" src="https://raw.githubusercontent.com/bymarquin/bymarquin/output/github-snake-dark.svg" />
 </picture>
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/bymarquin/bymarquin/output/profile-3d-night-green.svg" alt="3d" width="100%" />
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7ccf80,100:1f6f3a&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7ccf80,100:1f6f3a&height=120&section=footer&text=Bora%20construir%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
