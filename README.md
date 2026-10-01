@@ -70,7 +70,6 @@ const marcos = {
 
 <br/>
 
-<a href="https://github.com/bymarquin/auxilio-a-pessoas-autistas-no-transporte-publico"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=auxilio-a-pessoas-autistas-no-transporte-publico&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
 
 
 </div>
