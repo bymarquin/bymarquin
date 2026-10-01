@@ -10,6 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=bymarquin&label=Visitas&color=7ccf80&style=for-the-badge&labelColor=0d1117" alt="visitas" />
 <img src="https://img.shields.io/github/followers/bymarquin?label=Seguidores&style=for-the-badge&color=7ccf80&labelColor=0d1117" alt="seguidores" />
 <img src="https://img.shields.io/badge/Araripe-CE-7ccf80?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="local" />
+<a href="https://www.linkedin.com/in/antonio-marcos-9305bb2b4/"><img src="https://img.shields.io/badge/LinkedIn-Antonio_Marcos-7ccf80?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="linkedin" /></a>
 <img src="https://img.shields.io/badge/Dispon%C3%ADvel_para-freelas-7ccf80?style=for-the-badge&labelColor=0d1117" alt="freela" />
 
 </div>
@@ -26,6 +27,7 @@ const marcos = {
   stack: ["Node.js", "Vue", "JavaScript", "Python", "C"],
   foco: ["SaaS", "APIs & integrações", "Automação", "IoT"],
   mantra: "código simples, entrega rápida",
+  linkedin: "in/antonio-marcos-9305bb2b4",
 };
 ```
 
@@ -56,10 +58,12 @@ const marcos = {
 
 <div align="center">
 
-<a href="https://github.com/bymarquin/print-bridge"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=print-bridge&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
 <a href="https://github.com/bymarquin/auxilio-a-pessoas-autistas-no-transporte-publico"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=auxilio-a-pessoas-autistas-no-transporte-publico&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
-<a href="https://github.com/bymarquin/afiliado-ml"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=afiliado-ml&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
-<a href="https://github.com/bymarquin/ds2api"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=ds2api&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
+<a href="https://github.com/bymarquin/sistema-de-avaliacoes"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=sistema-de-avaliacoes&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
+<a href="https://github.com/bymarquin/instituicao_governamental_municipal"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=instituicao_governamental_municipal&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
+<a href="https://github.com/bymarquin/ararion"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=ararion&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
+
+[🔗 Sistema de Avaliações](https://sistema-de-avaliacoes.vercel.app) · [🔗 Instituição Governamental Municipal](https://instituicao-governamental-municipal.vercel.app) · [🔗 Ararion](https://ararion.vercel.app)
 
 </div>
 
