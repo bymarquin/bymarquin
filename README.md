@@ -27,7 +27,7 @@ const marcos = {
   stack: ["Node.js", "Vue", "JavaScript", "Python", "C"],
   foco: ["SaaS", "APIs & integrações", "Automação", "IoT"],
   mantra: "código simples, entrega rápida",
-  comoTrabalho: "desenvolvo com IA (Claude Code) e entrego produto 🤖",
+  comoTrabalho: "desenvolvo com IA e entrego produto",
   linkedin: "in/antonio-marcos-9305bb2b4",
 };
 ```
