@@ -77,14 +77,6 @@ const marcos = {
 
 </div>
 
-## <img src="assets/icons/activity.svg" height="26" align="absmiddle" /> Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bymarquin&theme=github-compact&bg_color=0d1117&color=7ccf80&line=7ccf80&point=ffffff&area=true&area_color=7ccf80&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="activity" />
-
-</div>
-
 ## <img src="assets/icons/git.svg" height="26" align="absmiddle" /> Contribuições
 
 <div align="center">
