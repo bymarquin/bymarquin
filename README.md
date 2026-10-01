@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7ccf80,100:1f6f3a&height=220&section=header&text=Marcos&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=@bymarquin%20%C2%B7%20Full%20Stack%20Dev&descSize=20&descAlignY=62" />
 
 <a href="https://github.com/bymarquin">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7CCF80&center=true&vCenter=true&repeat=true&width=640&height=40&lines=%24+whoami+%E2%86%92+Marcos+%7C+bymarquin;Dev+Full+Stack+%F0%9F%9A%80;Estudante+de+ADS+%F0%9F%8E%93;Direto+de+Araripe%2C+CE+%F0%9F%93%8D;SaaS+%C2%B7+APIs+%C2%B7+Automa%C3%A7%C3%B5es+%C2%B7+IoT;%24+git+commit+-m+%22bora+construir%22" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7CCF80&center=true&vCenter=true&repeat=true&width=640&height=40&lines=%24+whoami+%E2%86%92+Marcos+%7C+bymarquin;Dev+Full+Stack;Estudante+de+ADS;Direto+de+Araripe%2C+CE;SaaS+%C2%B7+APIs+%C2%B7+Automa%C3%A7%C3%B5es+%C2%B7+IoT;%24+git+commit+-m+%22bora+construir%22" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -17,12 +17,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 👨‍💻 Sobre mim
+## <img src="assets/icons/user.svg" height="26" align="absmiddle" /> Sobre mim
 
 ```js
 const marcos = {
   user: "bymarquin",
-  local: "Araripe, CE 🇧🇷",
+  local: "Araripe, CE",
   curso: "ADS / Sistemas de Informação",
   stack: ["Node.js", "Vue", "JavaScript", "Python", "C"],
   foco: ["SaaS", "APIs & integrações", "Automação", "IoT"],
@@ -32,7 +32,7 @@ const marcos = {
 };
 ```
 
-## 🛠️ Stack
+## <img src="assets/icons/layers.svg" height="26" align="absmiddle" /> Stack
 
 <div align="center">
 
@@ -42,7 +42,7 @@ const marcos = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 📊 Estatísticas
+## <img src="assets/icons/chart.svg" height="26" align="absmiddle" /> Estatísticas
 
 <div align="center">
 
@@ -51,11 +51,10 @@ const marcos = {
 
 <img src="https://streak-stats.demolab.com?user=bymarquin&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7ccf80&fire=7ccf80&currStreakLabel=7ccf80" alt="streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=bymarquin&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
 
 </div>
 
-## 🚀 Projetos em destaque
+## <img src="assets/icons/rocket.svg" height="26" align="absmiddle" /> Projetos em destaque
 
 <div align="center">
 
@@ -74,11 +73,11 @@ const marcos = {
 <a href="https://github.com/bymarquin/auxilio-a-pessoas-autistas-no-transporte-publico"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=auxilio-a-pessoas-autistas-no-transporte-publico&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
 <a href="https://github.com/bymarquin/sistema-de-avaliacoes"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=sistema-de-avaliacoes&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
 
-[🔗 Sistema de Avaliações](https://sistema-de-avaliacoes.vercel.app)
+<a href="https://sistema-de-avaliacoes.vercel.app"><img src="assets/icons/link.svg" height="16" align="absmiddle" /> Sistema de Avaliações</a>
 
 </div>
 
-## 📈 Atividade
+## <img src="assets/icons/activity.svg" height="26" align="absmiddle" /> Atividade
 
 <div align="center">
 
@@ -86,7 +85,7 @@ const marcos = {
 
 </div>
 
-## 🐍 Contribuições
+## <img src="assets/icons/git.svg" height="26" align="absmiddle" /> Contribuições
 
 <div align="center">
 
@@ -110,4 +109,4 @@ const marcos = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7ccf80,100:1f6f3a&height=120&section=footer&text=Bora%20construir%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7ccf80,100:1f6f3a&height=120&section=footer&text=Bora%20construir&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
