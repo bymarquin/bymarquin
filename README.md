@@ -71,9 +71,7 @@ const marcos = {
 <br/>
 
 <a href="https://github.com/bymarquin/auxilio-a-pessoas-autistas-no-transporte-publico"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=auxilio-a-pessoas-autistas-no-transporte-publico&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
-<a href="https://github.com/bymarquin/sistema-de-avaliacoes"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=sistema-de-avaliacoes&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
 
-<a href="https://sistema-de-avaliacoes.vercel.app"><img src="assets/icons/link.svg" height="16" align="absmiddle" /> Sistema de Avaliações</a>
 
 </div>
 
