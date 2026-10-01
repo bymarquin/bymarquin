@@ -59,6 +59,18 @@ const marcos = {
 
 <div align="center">
 
+<a href="https://github.com/bymarquin/pix-brcode"><img src="https://raw.githubusercontent.com/bymarquin/pix-brcode/main/assets/logo.svg" width="360" alt="pix-brcode" /></a>
+
+**Gera, lê e valida Pix copia-e-cola e QR Code.** TypeScript, zero dependências, publicado no npm.
+
+<a href="https://www.npmjs.com/package/@m4rquin/pix-brcode"><img src="https://img.shields.io/npm/v/@m4rquin/pix-brcode?label=npm&color=7ccf80&labelColor=0d1117&style=for-the-badge" alt="npm" /></a>
+<a href="https://github.com/bymarquin/pix-brcode"><img src="https://img.shields.io/github/stars/bymarquin/pix-brcode?style=for-the-badge&color=7ccf80&labelColor=0d1117" alt="stars" /></a>
+<a href="https://github.com/bymarquin/pix-brcode/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/bymarquin/pix-brcode/ci.yml?branch=main&label=CI&style=for-the-badge&color=7ccf80&labelColor=0d1117" alt="CI" /></a>
+
+`npm i @m4rquin/pix-brcode`
+
+<br/>
+
 <a href="https://github.com/bymarquin/auxilio-a-pessoas-autistas-no-transporte-publico"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=auxilio-a-pessoas-autistas-no-transporte-publico&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
 <a href="https://github.com/bymarquin/sistema-de-avaliacoes"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=sistema-de-avaliacoes&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
 
