@@ -27,6 +27,7 @@ const marcos = {
   stack: ["Node.js", "Vue", "JavaScript", "Python", "C"],
   foco: ["SaaS", "APIs & integrações", "Automação", "IoT"],
   mantra: "código simples, entrega rápida",
+  comoTrabalho: "desenvolvo com IA (Claude Code) e entrego produto 🤖",
   linkedin: "in/antonio-marcos-9305bb2b4",
 };
 ```
@@ -60,10 +61,8 @@ const marcos = {
 
 <a href="https://github.com/bymarquin/auxilio-a-pessoas-autistas-no-transporte-publico"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=auxilio-a-pessoas-autistas-no-transporte-publico&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
 <a href="https://github.com/bymarquin/sistema-de-avaliacoes"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=sistema-de-avaliacoes&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
-<a href="https://github.com/bymarquin/instituicao_governamental_municipal"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=instituicao_governamental_municipal&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
-<a href="https://github.com/bymarquin/ararion"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=bymarquin&repo=ararion&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ccf80&icon_color=7ccf80" /></a>
 
-[🔗 Sistema de Avaliações](https://sistema-de-avaliacoes.vercel.app) · [🔗 Instituição Governamental Municipal](https://instituicao-governamental-municipal.vercel.app) · [🔗 Ararion](https://ararion.vercel.app)
+[🔗 Sistema de Avaliações](https://sistema-de-avaliacoes.vercel.app)
 
 </div>
 
