@@ -87,6 +87,14 @@ const marcos = {
 
 <br/><br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bymarquin/bymarquin/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bymarquin/bymarquin/output/pacman-contribution-graph.svg" />
+  <img alt="pacman" src="https://raw.githubusercontent.com/bymarquin/bymarquin/output/pacman-contribution-graph-dark.svg" />
+</picture>
+
+<br/><br/>
+
 <img src="https://raw.githubusercontent.com/bymarquin/bymarquin/output/profile-3d-night-green.svg" alt="3d" width="100%" />
 
 </div>
