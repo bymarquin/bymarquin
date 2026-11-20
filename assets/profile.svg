@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="896" height="184" viewBox="0 0 896 184" role="img" aria-labelledby="name description">
+  <title id="name">Marcos Macedo</title>
+  <desc id="description">Desenvolvedor Full Stack. Araripe, Ceará.</desc>
+  <style>@media (max-width:500px){.meta{display:none}.name{transform:translateY(18px)}}</style>
+  <rect width="896" height="184" fill="#12231D"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text class="name" x="32" y="99" font-size="68" font-weight="700" letter-spacing="-2" fill="#F1F5F2">Marcos <tspan fill="#7CCF80">Macedo</tspan></text>
+    <text class="meta" x="35" y="140" font-size="20" fill="#B6C8BE">Desenvolvedor Full Stack</text>
+    <text class="meta" x="861" y="140" text-anchor="end" font-size="16" fill="#B6C8BE">Araripe, CE</text>
+  </g>
+</svg>

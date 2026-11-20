@@ -1,22 +1,23 @@
-<img src="assets/terminal/contributions.svg" width="100%" alt="Calendário real de contribuições de Marcos Macedo." />
+<img src="assets/profile.svg" width="100%" alt="Marcos Macedo — Desenvolvedor Full Stack. Araripe, Ceará." />
 
-<img src="assets/terminal/profile.svg" width="100%" alt="Marcos Macedo em ASCII e estatísticas públicas do GitHub." />
+Desenvolvo aplicações web, APIs e automações com **Node.js, Vue e TypeScript**. Estudo Análise e Desenvolvimento de Sistemas e sou de Araripe, no Ceará.
 
-```sh
-$ whoami
-Marcos Macedo / @macedoafk
-Dev Full Stack em formação · ADS · Araripe, CE
-Node.js · Vue · TypeScript / SaaS, APIs e automações
-```
+[LinkedIn](https://www.linkedin.com/in/antonio-marcos-9305bb2b4/) · [Pacotes no npm](https://www.npmjs.com/~m4rquin) · [Repositórios](https://github.com/macedoafk?tab=repositories)
 
-### `$ ls projetos/`
+## pix-brcode
 
-**[pix-brcode](https://github.com/macedoafk/pix-brcode)** — Gera, lê e valida Pix copia-e-cola e QR Code. TypeScript, zero dependências.
+Biblioteca TypeScript para **gerar, ler e validar Pix copia-e-cola**, com geração de QR Code em SVG. Funciona em Node.js e no navegador, sem dependências.
 
 ```sh
-npm i @m4rquin/pix-brcode
+npm install @m4rquin/pix-brcode
 ```
 
-[npm](https://www.npmjs.com/~m4rquin) · [LinkedIn](https://www.linkedin.com/in/antonio-marcos-9305bb2b4/) · [Repositórios](https://github.com/macedoafk?tab=repositories)
+`generate` cria o código · `parse` lê os campos · `validate` verifica o CRC · `qrSvg` gera o QR Code.
 
-<sub>Painéis gerados com dados públicos do GitHub; data da coleta no calendário.</sub>
+[Abrir o código](https://github.com/macedoafk/pix-brcode) · [Ver o pacote no npm](https://www.npmjs.com/package/@m4rquin/pix-brcode)
+
+## Tecnologias
+
+- **Aplicações web** — Vue, JavaScript e TypeScript.
+- **APIs e integrações** — Node.js, Fastify e Express.
+- **Infraestrutura** — Docker, Linux e Nginx.
