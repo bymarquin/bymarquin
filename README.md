@@ -2,7 +2,7 @@
 
 Desenvolvo aplicações web, APIs e automações com **Node.js, Vue e TypeScript**. Estudo Análise e Desenvolvimento de Sistemas e sou de Araripe, no Ceará.
 
-[LinkedIn](https://www.linkedin.com/in/antonio-marcos-9305bb2b4/) · [Pacotes no npm](https://www.npmjs.com/~m4rquin) · [Repositórios](https://github.com/macedoafk?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/antonio-marcos-9305bb2b4/) · [Pacotes no npm](https://www.npmjs.com/~m4rquin) · [Repositórios](https://github.com/marcedoafk?tab=repositories)
 
 ## pix-brcode
 
@@ -14,7 +14,7 @@ npm install @m4rquin/pix-brcode
 
 `generate` cria o código · `parse` lê os campos · `validate` verifica o CRC · `qrSvg` gera o QR Code.
 
-[Abrir o código](https://github.com/macedoafk/pix-brcode) · [Ver o pacote no npm](https://www.npmjs.com/package/@m4rquin/pix-brcode)
+[Abrir o código](https://github.com/marcedoafk/pix-brcode) · [Ver o pacote no npm](https://www.npmjs.com/package/@m4rquin/pix-brcode)
 
 ## Tecnologias
 
